@@ -7,6 +7,3 @@
 [submodule "atlas-builder"]
 	path = atlas-builder
 	url = https://github.com/karl-zylinski/atlas-builder
-[submodule "source/anima"]
-	path = source/anima
-	url = https://github.com/atomicptr/anima
