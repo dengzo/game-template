@@ -10,3 +10,6 @@
 [submodule "source/jobs"]
 	path = source/jobs
 	url = https://github.com/jakubtomsu/jobs
+[submodule "fixed-timestep-demo"]
+	path = fixed-timestep-demo
+	url = https://github.com/jakubtomsu/fixed-timestep-demo
