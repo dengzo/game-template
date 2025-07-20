@@ -7,3 +7,6 @@
 [submodule "atlas-builder"]
 	path = atlas-builder
 	url = https://github.com/karl-zylinski/atlas-builder
+[submodule "source/jobs"]
+	path = source/jobs
+	url = https://github.com/jakubtomsu/jobs
